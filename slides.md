@@ -89,6 +89,13 @@ data as communicated bits
 
 ![](img/authorship-transformed.png)
 
+## Anwendungen
+
+* Data archaeology
+* Data literacy
+* Data integration
+* ...
+
 ## Literatur
 
 * Brian Ballsun-Stanton (2012): *Asking About Data: Exploring Different
